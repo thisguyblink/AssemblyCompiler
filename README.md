@@ -11,6 +11,7 @@ yasm
 The assembly file is project.asm
 
 ./compileASM.sh project.asm y
+
 This will compile and link the project file and open ddd debugger
 
 ### Troubleshooting
