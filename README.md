@@ -8,9 +8,10 @@ yasm
 ## Runbook 
 ./compileASM.sh [target file] [ddd option]
 ### Example
-The assembly file is project.asm
 
 ./compileASM.sh project.asm y
+
+The assembly file is project.asm
 
 This will compile and link the project file and open ddd debugger
 
