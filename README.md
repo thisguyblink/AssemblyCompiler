@@ -6,11 +6,11 @@ Bash
 yasm
 
 ## Runbook 
-./compileASM.sh [target file(without .asm)] [ddd option]
+./compileASM.sh [target file] [ddd option]
 ### Example
 The assembly file is project.asm
 
-./compileASM.sh project y
+./compileASM.sh project.asm y
 This will compile and link the project file and open ddd debugger
 
 ### Troubleshooting
